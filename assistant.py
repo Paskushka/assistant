@@ -3,7 +3,7 @@ import audioProcessor
 import pvporcupine
 from pvrecorder import PvRecorder
 from sys import exit
-
+#1111
 class Assistant:
     def __init__(self):
         # Создаем объект для синтеза речи
